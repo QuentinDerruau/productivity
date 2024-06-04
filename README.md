@@ -52,8 +52,6 @@ Merci d'utiliser l'application ToDo List & Pomodoro Timer ! Profitez de votre ex
 
 ---
 
----
-
 # Support
 
 Si vous rencontrez des problèmes ou avez des questions, n'hésitez pas à créer une issue sur le dépôt GitHub.
@@ -71,7 +69,3 @@ Version 1.0.0
 - 1.0.0 : Première version de l'application. Inclut les fonctionnalités de base pour la gestion des tâches et le minuteur Pomodoro.
 
 ---
-
----
-
-Ce fichier README fournit une description complète de l'application iOS ToDo List & Pomodoro Timer, y compris les fonctionnalités, les instructions d'installation, les détails d'architecture, et des informations pour contribuer au projet.
